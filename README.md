@@ -2,7 +2,17 @@
 Prank your friends using this Kahoot bot developed with Node JS
 
 # Tutorial
-Clone the repo and run "npm install" to install all the dependencies
+Clone the repo and change directories into the cloned project's directory.
+<br/>
+<br/>
+Install all needed dependencies...
+```
+npm install
+```
+Start the server
+```
+node app.js
+```
 <br/>
 <br/>
 Run "node app.js" to start the server
