@@ -13,8 +13,6 @@ Start the server
 ```
 node app.js
 ```
-<br/>
-<br/>
 Run "node app.js" to start the server
 <br/>
 <br/>
